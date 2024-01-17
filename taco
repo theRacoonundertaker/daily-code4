@@ -1,0 +1,21 @@
+choice = input("Which do you prefer Italian or Mexican cuisine")
+if choice2 == 'Italian':
+if choice = input("Do you want pizza or pasta?")
+    if choice2 == 'Pizza':
+        print("Go to Pizza hut")
+    elif choice2 == 'Pasta':
+        print("Frozen mircowave chicken alfredo")
+    else:
+        print("you get burn pizza or something idk")
+elif choice == 'mexican':
+if choice = input("do you want tacos or have a quesadilla")
+    if choice == 'Tacos':
+        print("illegal pete's")
+    elif choice == 'Quesadilla':
+        print ("Los Carboncitos")
+
+        
+    
+    
+    
+        
